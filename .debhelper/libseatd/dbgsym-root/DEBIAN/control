@@ -1,0 +1,13 @@
+Package: libseatd-dbgsym
+Source: seatd
+Version: 2021.06.24
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Marcus Britanicus <marcusbritanicus@gmail.com>
+Installed-Size: 59
+Depends: libseatd (= 2021.06.24)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libseatd
+Build-Ids: 1317d317dd8d2fdf4897ab0f6b19764629a72329

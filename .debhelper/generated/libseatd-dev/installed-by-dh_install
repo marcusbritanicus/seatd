@@ -1,0 +1,3 @@
+debian/tmp/usr/include/libseat.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libseat.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/libseat.pc

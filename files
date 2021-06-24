@@ -1,0 +1,6 @@
+libseatd-dbgsym_2021.06.24_amd64.deb debug optional automatic=yes
+libseatd-dev_2021.06.24_amd64.deb libdevel optional
+libseatd_2021.06.24_amd64.deb libs optional
+seatd-dbgsym_2021.06.24_amd64.deb debug optional automatic=yes
+seatd_2021.06.24_amd64.buildinfo libs optional
+seatd_2021.06.24_amd64.deb libs optional
